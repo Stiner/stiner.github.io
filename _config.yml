@@ -1,1 +1,9 @@
+title: Stiner's page
+author:
+    Stiner
+url: "https://stiner.github.io"
+github_username: Stiner
+
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
