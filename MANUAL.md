@@ -71,15 +71,15 @@ Jekyll Paper for Github has supported the following languages, please set langua
 
 The home page:
 
-![Index Screenshot](./assets/images/index-screenshot.png)
+![Index Screenshot](./assets/images/manual/index-screenshot.png)
 
 The post page:
 
-![Post Screenshot](./assets/images/post-screenshot.png)
+![Post Screenshot](./assets/images/manual/post-screenshot.png)
 
 The category page:
 
-![Category Screenshot](./assets/images/category-screenshot.png)
+![Category Screenshot](./assets/images/manual/category-screenshot.png)
 
 ## License
 
