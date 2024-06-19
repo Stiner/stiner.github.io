@@ -1,5 +1,12 @@
 @charset "utf-8";
 
+@font-face {
+  font-family: 'IyagiGGC';
+  src: url('https://cdn.jsdelivr.net/gh/JuwanPark/IyagiGGC@latest/IyagiGGC.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 * {
   margin: 0;
   padding: 0;
