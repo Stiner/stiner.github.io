@@ -6,21 +6,21 @@
 name:               "Stiner"
 
 author:
-  facebook:         ""
-  youtubeUser:      ""
+#  facebook:         ""
+#  youtubeUser:      ""
   youtubeChannel:   "@stiner7016"
   twitter:          "stiner02"
   github:           "Stiner"
-  stackoverflow:    ""
-  quora:            ""
-  linkedin:         ""
-  pinterest:        ""
-  googlePlus:       ""
-  instagram:        ""
-  reddit:           ""
-  medium:           ""
-  tumblr:           ""
-  email:            ""
+#  stackoverflow:    ""
+#  quora:            ""
+#  linkedin:         ""
+#  pinterest:        ""
+#  googlePlus:       ""
+#  instagram:        ""
+#  reddit:           ""
+#  medium:           ""
+#  tumblr:           ""
+#  email:            ""
 
 copyright:
   year:             2024
