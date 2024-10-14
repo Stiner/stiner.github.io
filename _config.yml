@@ -50,14 +50,14 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   twitter: stiner02
-  youtube: stiner7016
+  youtube: "@stiner7016"
 
 # Text under the icons in footer
 footer-text: © 2024 Stiner
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: stiner-github-io # <username>.disqus.com
+# disqus: stiner-github-io # <username>.disqus.com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
