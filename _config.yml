@@ -23,8 +23,8 @@ author:
   email:            your-id@your-email.com
 
 copyright:
-  year:             2017
-  name:             Kiko
+  year:             2024
+  name:             Stiner
 
 # Google-analytics
 google-analytics:
@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               ""
 
 # URL
 url:                "https://stiner.github.io" # the base hostname & protocol for your site
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/Stiner"
 
 # Sass
 sass:
