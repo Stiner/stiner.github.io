@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "3e7d73f0e4162448",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e7bece055d68c8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce07b201d6ee0640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-23-스터디-기록-4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5585d0a096ddd2b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c93337c7f6184544",
+    "type": "split",
+    "children": [
+      {
+        "id": "144c3a44878a08b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36cada33bedf922e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2906bcddb55ac363",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27b706e7a85e9c13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ac1621a20778c84",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d59c9f9d48f1f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691ebdfd1997c38e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "무제 파일.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da5f5ab5fb861ded",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "무제 파일.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61c81c274ddcac2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8de251e5b1159605",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "무제 파일.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "5585d0a096ddd2b2",
+  "lastOpenFiles": [
+    "2024-05-23-스터디-기록-4.md",
+    "무제 파일.md",
+    "2024-07-01.md",
+    "2024-05-23-스터디-기록-3.md",
+    "2024-04-18-스터디-기록-2.md",
+    "2024-04-04-스터디-기록-1.md",
+    "2024-04-04-스터디-기록.md",
+    "2018-02-11-welcome-to-jekyll.md",
+    "2024-04-18-스터디-기록.md",
+    "2024-05-15.md",
+    "Study_240404.md",
+    "Study_240418.md"
+  ]
+}
