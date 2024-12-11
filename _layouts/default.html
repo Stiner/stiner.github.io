@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <script src="/assets/js/vendor/jquery/jquery-1.12.4.min.js"></script>
+  <script src="/assets/js/plugins/jquery.magnific-popup.js"></script>
+  <script src="/assets/js/magnific-popup-setting.js"></script>
+
+  {% include head.html %}
+  <body>
+    {% include nav.html %}
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include footer.html %}
+        </footer>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+
+</html>
